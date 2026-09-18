@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science sophomore passionate about exploring new technologies and turning ideas into impactful digital experiences. As a frontend developer, I’m currently building projects that focus on usability, performance, and thoughtful design. I regularly join hackathons to challenge myself, connect with other builders, and create solutions that make a difference.
+Computer Science pre-final year student passionate about exploring new technologies and turning ideas into impactful digital experiences. As a frontend developer, I’m currently building projects that focus on usability, performance, and thoughtful design. I regularly join hackathons to challenge myself, connect with other builders, and create solutions that make a difference.
 
 
 ## 🌐 Socials:
