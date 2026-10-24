@@ -95,7 +95,7 @@
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=saroshkumar-ops&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saroshkumar-ops&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saroshkumar-ops&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="Trophies" />
 </div>
 
 <br>
