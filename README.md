@@ -94,8 +94,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroshkumar-ops&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=saroshkumar-ops&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroshkumar-ops&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br>
