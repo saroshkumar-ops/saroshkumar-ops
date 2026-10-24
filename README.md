@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4facfe,100:00f2fe&height=220&section=header&text=Sarosh%20Kumar&fontSize=80&fontAlignY=38&desc=Architecting%20AI%20%26%20Backend%20Systems&descAlignY=62&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4facfe,100:00f2fe&height=220&section=header&text=Sarosh%20Kumar&fontSize=80&fontAlignY=38&desc=Architecting%20AI%20and%20Backend%20Systems&descAlignY=62&descSize=20&animation=fadeIn" alt="Header" />
 </div>
 
 <p align="center">
@@ -94,7 +94,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saroshkumar-ops&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroshkumar-ops&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=saroshkumar-ops&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="Trophies" />
 </div>
 
