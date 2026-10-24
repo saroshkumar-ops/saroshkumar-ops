@@ -89,7 +89,7 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saroshkumar-ops&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saroshkumar-ops&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroshkumar-ops&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 <br>
@@ -100,7 +100,5 @@
 
 <br>
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=saroshkumar-ops&icon=0&color=4facfe" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=saroshkumar-ops&label=Profile%20Views&color=4facfe&style=for-the-badge" alt="Visit Count" />
 </div>
