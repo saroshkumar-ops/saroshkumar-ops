@@ -107,7 +107,7 @@
 <table align="center">
   <tr>
     <td align="center">👑</td>
-    <td><b>Lead, Data Science Club (KLE Tech):</b> Spearheading masterclasses and hackathons for a 500+ student community.</td>
+    <td><b>Lead, Data Science Club (KLE Tech):</b> Spearheading masterclasses and hackathons for a 150+ student community.</td>
   </tr>
   <tr>
     <td align="center">🥇</td>
