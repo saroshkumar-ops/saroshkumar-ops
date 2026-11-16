@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Leadership</h3>
       <ul>
-        <li>👑 <b>Lead, Data Science Club (KLE Tech):</b> Spearheading masterclasses and hackathons for a 500+ student community.</li>
+        <li>👑 <b>Lead, Data Science Club (KLE Tech):</b> Spearheading masterclasses and hackathons for a 50+ student community.</li>
         <li>🥇 <b>Top Finalist:</b> Shortlisted at <i>HackTU 7.0</i> (MLH), <i>Hack-Nocturne 2.0</i>, and <i>Anvil</i>.</li>
         <li>🥈 <b>4th Place Finalist:</b> <i>HACK4SOC 3.0</i> inter-college hackathon.</li>
         <li>🥉 <b>Consolation Prize:</b> <i>IGNITRIX Agentic AI Hackathon</i>.</li>
